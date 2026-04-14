@@ -2,7 +2,7 @@
 
 If you are looking for the Fabric version of this mod, you can find it [here](https://github.com/plngvln/lightingmod).
 
-LightingMod-Paper is a custom Minecraft plugin for Paper servers that adds realistic lightning behavior, including the ability for lightning to be attracted to lightning rods. The plugin allows for dynamic lightning strikes based on player activity and thunderstorm conditions in the game world.
+LightningMod-Paper is a custom Minecraft plugin for Paper servers that adds realistic lightning behavior, including the ability for lightning to be attracted to lightning rods. The plugin allows for dynamic lightning strikes based on player activity and thunderstorm conditions in the game world.
 
 ## Features
 
