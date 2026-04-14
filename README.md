@@ -1,4 +1,4 @@
-# LightingMod-Paper
+# LightningMod-Paper
 
 If you are looking for the Fabric version of this mod, you can find it [here](https://github.com/plngvln/lightingmod).
 
